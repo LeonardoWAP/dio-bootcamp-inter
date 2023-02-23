@@ -1,2 +1,2 @@
-# dio-desafio-github
+# dio-bootcamp-inter
 Desafio de projeto sobre GIT/GITHUB
