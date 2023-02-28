@@ -42,6 +42,7 @@ java é fortemente tipado
 # Operadores
 temos varios tipos de operadores vou citar alguns :
 
+|     simbolos  |       Nome    |
 | ------------- | ------------- |
 | ==            |     Igual     |
 | !=            |   Diferente   |
