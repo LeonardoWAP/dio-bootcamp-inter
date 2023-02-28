@@ -82,7 +82,34 @@ Identificar a localização mais conveniente para a escrita de algoritmos necess
 
 O escopo pode ser entendido como o ambiente onde uma variável podee ser acessada . Em Java o escopo de variáveis ***vai de acordo com o bloco onde ela foi declarada***
 
+# Palavras reservadas 
+são identificadores de uma linguagem que já possuem uma finalidade especifica , portanto não podem ser utilizado para nomear variáveis
+52 palavras reservadas organizadas por classificação de usabilidade considerando as regras da linguagem
+escritas em letra minusculas
 
+'''
+Abstract, Assert, Boolean, Break, Byte, Case, Catch, Char, Class, Const, Continue, Default, Do, Double, Else, Enum, Extends, Final, Finally,
+Float, For, Goto, If, Implements, Import, Instanceof, Int, Interfaces, Long, Native, New, Package, Private, Protected, Public, Return, Short, Static, Strictfp, Super,Switch, Synchronized, This, Throw, Throws, Transient, Try, Void, Volatile, While,
+'''
+
+* Modificadores de acesso
+   private, protected e public
+* Modificadores de classes, variaveis ou métodos
+    abstract, class, extends, final, implements, interface, native, new, static, strictfp, synchronized, transient, volatile
+* Controle de fluxo
+    break, case, continue, default, do, else, for, if, instanceof, return, switch, while
+* Tratamento de erros
+    assert, catch, finally, throw, throws, try
+* Controles de pacote
+    import, package
+* Tipos primitivos
+    boolean, byte, char, double, float, int, long, short
+* Variaveis de referencia
+    super, this
+* Retorno de metodo
+    void
+* Palavras que não são usadas atualmente
+    const, goto
 
 
 
