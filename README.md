@@ -22,7 +22,7 @@ variavel sempre no singular , exceto quando for um array ou coleção
 
 ***definir um idioma padrão ( português tudo em português , ingles tudo em ingles)***
 
-não abreviar as variaveis  ( SalarioMedio - salMdedio <-- não fazer isso)
+***não abreviar as variaveis  ( SalarioMedio - salMdedio <-- não fazer isso)***
 
 # Tipos e variaveis  
 são 8 tipos primitivos em java (int , byte , short , long , float , double , boolean e char)
