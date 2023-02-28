@@ -20,4 +20,12 @@ definir um idioma padrão ( português tudo em português , ingles tudo em ingle
 
 não abreviar as variaveis  ( SalarioMedio - salMdedio <-- não fazer isso)
 
+# Tipos e variaveis  
+são 8 tipos primitivos em java (int , byte , short , long , float , double , boolean e char)
+
+numerico o mais utilizado é o int pois a jvm ja transforma os outros para int 
+
+numerico com virgula o mais utilizado é o double pois a jvm ja transforma os outros para double
+
+java é fortemente tipado 
 
