@@ -15,16 +15,16 @@ foi feita a criação de uma classe usuario onde simularia a movimentações que
 
 Foi feita a criação de uma classe onde possui metodos para as funcionalidades de uma smart TV 
 
-ligar - função ligar serve para ligar a televisão 
+* ligar - função ligar serve para ligar a televisão 
 
-desligar - função desligar serve para desligar a televisão 
+* desligar - função desligar serve para desligar a televisão 
 
-aumentarVolume - função aumentarVolume serve para aumentar o volume da televisão
+* aumentarVolume - função aumentarVolume serve para aumentar o volume da televisão
 
-abaixarVolume - função abaixarVolume serve para diminuir o volume da televisão 
+* abaixarVolume - função abaixarVolume serve para diminuir o volume da televisão 
 
-aumentarCanal - função aumentarCanal serve para passar um canal para frente
+* aumentarCanal - função aumentarCanal serve para passar um canal para frente
 
-diminuirCanal - função diminuirCanal server para passar um canal para tras 
+* diminuirCanal - função diminuirCanal server para passar um canal para tras 
 
-mudarCanal - função mudarCanal serve para o usuario enviar um input do canal que deseja e o canal será trocado atraves do input do usuario
+* mudarCanal - função mudarCanal serve para o usuario enviar um input do canal que deseja e o canal será trocado atraves do input do usuario
