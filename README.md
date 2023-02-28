@@ -72,16 +72,6 @@ Convenções para melhorar a legibilidade do codigo
 
 * seguir o padrão camelCase ( Todas as letras minúsculas com exceção da primeira letra da segunda palavra )
 
-# Exercicio 
-Vamos criar um exemplo de uma classe para representar uma SmartTv onde : 
-
-* Ela tenha as caracteristicas : ligada (boolean) , canal (int) , volume (int)
-
-* Nossa Tv poderá ligar e desligar e assim mudar o estado ligada
-
-* Nossa Tv aumentará e diminuirá o volume sempre em +1 ou -1
-
-* Nossa Tv Poderá mudar de canal 1 em 1 ou definindo o número correspondente
 
 
 
