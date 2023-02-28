@@ -20,7 +20,7 @@ variavel deve ser clara , sem abreviações ou definições sem sentido
 
 variavel sempre no singular , exceto quando for um array ou coleção
 
-**definir um idioma padrão ( português tudo em português , ingles tudo em ingles)**
+***definir um idioma padrão ( português tudo em português , ingles tudo em ingles)***
 
 não abreviar as variaveis  ( SalarioMedio - salMdedio <-- não fazer isso)
 
@@ -33,7 +33,7 @@ numerico com virgula o mais utilizado é o double pois a jvm ja transforma os ou
 
 java é fortemente tipado 
 
-## Variaveis vs constantes 
+# Variaveis vs constantes 
 * Uma variavel é uma área de memoria que pode ser associada a um nome e pode armazenar valores de um determinado tipo
 
 * Uma constante são valores armazenados em memória que não podem ser modificados depois de declarados e em java esses valores são representados pela palavra reservada "final"  e sempre deve estar em UPPERCASE exemplo = "final double VALOR_DE_PI = 3.14;"
@@ -52,17 +52,19 @@ temos varios tipos de operadores vou citar alguns :
 | >=            |   Maior igual |
 
 
-* Operador ternario 
+# Operador ternario 
 O operador ternario é representado pelos simbolos ?: utilizados na seguinte estrutura de sintaxe :
 <expressão condicional > ? <Caso condição seja true> : <caso condição seja false>
 -- em kotlin esse modo é chamado de elvis , pois se juntarmos o ?: parece o topete do elvis --
 
 exemplo :
+```
 int a,b;
 a = 5; 
 b = 6;
 
 String resultado = a==b ? "Verdadeiro" : "falso"; 
+```
 
 saida será false , pois a não é igual a b 
 
