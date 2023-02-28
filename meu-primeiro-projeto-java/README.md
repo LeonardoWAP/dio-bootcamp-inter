@@ -29,3 +29,12 @@ numerico com virgula o mais utilizado é o double pois a jvm ja transforma os ou
 
 java é fortemente tipado 
 
+## Variaveis vs constantes 
+* Uma variavel é uma área de memoria que pode ser associada a um nome e pode armazenar valores de um determinado tipo
+
+* Uma constante são valores armazenados em memória que não podem ser modificados depois de declarados e em java esses valores são representados pela palavra reservada "final"  e sempre deve estar em UPPERCASE exemplo = "final double VALOR_DE_PI = 3.14;"
+
+
+
+
+
