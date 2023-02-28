@@ -59,7 +59,14 @@ String resultado = a==b ? "Verdadeiro" : "falso";
 
 saida será false , pois a não é igual a b 
 
+# Metodos 
+Os metodos correspondem a funções ou sub-rotinas disponiveis dentro das nossas classes 
 
+Convenções para melhorar a legibilidade do codigo 
+
+* Deve ser nomeado como verbo 
+
+* seguir o padrão camelCase ( Todas as letras minúsculas com exceção da primeira letra da segunda palavra )
 
 
 
