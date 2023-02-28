@@ -1,4 +1,4 @@
-# dio-bootcamp-inter
+<h1 align="center"> dio-bootcamp-inter </h1>
 
 Esse Repositorio será onde vou colocar todos os itens relacionados ao bootcamp , anotações , codigos , documentos para estudos , dicas 
 
@@ -40,7 +40,7 @@ java é fortemente tipado
 
 
 # Operadores 
-temos varios tipos de operadores vou citar alguns 
+temos varios tipos de operadores vou citar alguns :
 
 | First Header  | Second Header |
 | ------------- | ------------- |
