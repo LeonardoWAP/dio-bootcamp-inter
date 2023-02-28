@@ -45,6 +45,23 @@ temos varios tipos de operadores vou citar alguns
 <= - Menor igual
 >= - Maior igual
 
+* Operador ternario 
+O operador ternario é representado pelos simbolos ?: utilizados na seguinte estrutura de sintaxe :
+<expressão condicional > ? <Caso condição seja true> : <caso condição seja false>
+-- em kotlin esse modo é chamado de elvis , pois se juntarmos o ?: parece o topete do elvis --
+
+exemplo :
+int a,b;
+a = 5; 
+b = 6;
+
+String resultado = a==b ? "Verdadeiro" : "falso"; 
+
+saida será false , pois a não é igual a b 
+
+
+
+
 
 
 
