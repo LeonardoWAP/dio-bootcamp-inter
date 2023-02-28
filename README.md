@@ -80,6 +80,10 @@ Convenções para melhorar a legibilidade do codigo
 # Escopo
 Identificar a localização mais conveniente para a escrita de algoritmos necessários para o nosso programa 
 
+O escopo pode ser entendido como o ambiente onde uma variável podee ser acessada . Em Java o escopo de variáveis ***vai de acordo com o bloco onde ela foi declarada***
+
+
+
 
 
 
