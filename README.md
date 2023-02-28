@@ -42,12 +42,15 @@ java é fortemente tipado
 # Operadores 
 temos varios tipos de operadores vou citar alguns 
 
-== - Igual
-!= - Diferente
-<  - Menor
-> - Maior
-<= - Menor igual
->= - Maior igual
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ==            |     Igual     |
+| !=            |   Diferente   |
+| <             |   Menor       |
+| >             |   Maior       |
+| <=            |   Menor igual |
+| >=            |   Maior igual |
+
 
 * Operador ternario 
 O operador ternario é representado pelos simbolos ?: utilizados na seguinte estrutura de sintaxe :
@@ -71,6 +74,9 @@ Convenções para melhorar a legibilidade do codigo
 * Deve ser nomeado como verbo 
 
 * seguir o padrão camelCase ( Todas as letras minúsculas com exceção da primeira letra da segunda palavra )
+
+# Escopo
+Identificar a localização mais conveniente para a escrita de algoritmos necessários para o nosso programa 
 
 
 
