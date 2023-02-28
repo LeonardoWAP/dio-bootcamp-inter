@@ -2,7 +2,7 @@
 
 Esse Repositorio será onde vou colocar todos os itens relacionados ao bootcamp , anotações , codigos , documentos para estudos , dicas 
 
-# anatomia das classes 
+# **anatomia das classes** 
 A escrita de codigos é feita atraves de palavras pré definidas para determinar o nome dos nossos arquivos ( classes, atributos , métodos )
 o ideal é sempre manter o padrão com a lingua inglesa. 
 
@@ -24,7 +24,7 @@ definir um idioma padrão ( português tudo em português , ingles tudo em ingle
 
 não abreviar as variaveis  ( SalarioMedio - salMdedio <-- não fazer isso)
 
-# Tipos e variaveis  
+# **Tipos e variaveis**  
 são 8 tipos primitivos em java (int , byte , short , long , float , double , boolean e char)
 
 numerico o mais utilizado é o int pois a jvm ja transforma os outros para int 
@@ -33,13 +33,13 @@ numerico com virgula o mais utilizado é o double pois a jvm ja transforma os ou
 
 java é fortemente tipado 
 
-## Variaveis vs constantes 
+## **Variaveis vs constantes** 
 * Uma variavel é uma área de memoria que pode ser associada a um nome e pode armazenar valores de um determinado tipo
 
 * Uma constante são valores armazenados em memória que não podem ser modificados depois de declarados e em java esses valores são representados pela palavra reservada "final"  e sempre deve estar em UPPERCASE exemplo = "final double VALOR_DE_PI = 3.14;"
 
 
-# Operadores 
+# **Operadores** 
 temos varios tipos de operadores vou citar alguns :
 
 | First Header  | Second Header |
@@ -66,7 +66,7 @@ String resultado = a==b ? "Verdadeiro" : "falso";
 
 saida será false , pois a não é igual a b 
 
-# Metodos 
+# **Metodos** 
 Os metodos correspondem a funções ou sub-rotinas disponiveis dentro das nossas classes 
 
 Convenções para melhorar a legibilidade do codigo 
@@ -75,7 +75,7 @@ Convenções para melhorar a legibilidade do codigo
 
 * seguir o padrão camelCase ( Todas as letras minúsculas com exceção da primeira letra da segunda palavra )
 
-# Escopo
+# **Escopo**
 Identificar a localização mais conveniente para a escrita de algoritmos necessários para o nosso programa 
 
 
