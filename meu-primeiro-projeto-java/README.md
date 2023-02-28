@@ -35,6 +35,17 @@ java é fortemente tipado
 * Uma constante são valores armazenados em memória que não podem ser modificados depois de declarados e em java esses valores são representados pela palavra reservada "final"  e sempre deve estar em UPPERCASE exemplo = "final double VALOR_DE_PI = 3.14;"
 
 
+# Operadores 
+temos varios tipos de operadores vou citar alguns 
+
+== - Igual
+!= - Diferente
+<  - Menor
+> - Maior
+<= - Menor igual
+>= - Maior igual
+
+
 
 
 
