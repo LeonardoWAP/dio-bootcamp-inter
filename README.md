@@ -42,7 +42,6 @@ java é fortemente tipado
 # Operadores
 temos varios tipos de operadores vou citar alguns :
 
-| First Header  | Second Header |
 | ------------- | ------------- |
 | ==            |     Igual     |
 | !=            |   Diferente   |
