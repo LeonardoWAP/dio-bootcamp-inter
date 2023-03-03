@@ -109,6 +109,9 @@ escritas em letra minusculas
     const, goto
 
 
+# Estrutura de Repetição 
+Uma estrutura de repetição permite que uma sequencia de comandos seja executada repetidamente , caso determinadas condições sejam satisfeitas
+
 
 
 
