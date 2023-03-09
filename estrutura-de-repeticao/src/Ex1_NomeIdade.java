@@ -5,7 +5,7 @@
  * (pae o programa inserindo o valor 0 no campo nome)
  * 
  */
-import java.util.Scanner;;
+import java.util.Scanner;
 
 public class Ex1_NomeIdade{
     public static void main(String[]ãrgs) {
